@@ -7,7 +7,7 @@ static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { "monospace:size=10",
 					"WenQuanYi Micro Hei:size=10:type=Regular:antialias=true:autohint=true",
-					"JoyPixels:pixelsize=14:type=Regular:antialias=true:autohint=true",
+					"JoyPixels:pixelsize=16:type=Regular:antialias=true:autohint=true",
                                         "Symbols Nerd Font:pixelsize:12:type=2048-em:antialias=true:autohint=ture"};
 static const char dmenufont[]       = "monospace:size=10";
 static const char col_gray1[]       = "#222222";
